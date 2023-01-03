@@ -17,8 +17,25 @@
     <img align="center" height="50" width="60" alt="css-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
     <img align="center" height="50" width="60" alt="c-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
     <img align="center" height="50" width="60" alt="nodejs-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-    <img align="center" height="50" width="60" alt="nodejs-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+    <img align="center" height="50" width="60" alt="nodejs-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
+   </div>
     
+  <div  align="center"> 
+  <div style="display: inline_block"><br>
+    <h1 align="center">Resdes Sociais :)</h1>
+    <a href = "https://www.linkedin.com/in/jo%C3%A3o-victor-mariano-9813b9233/">
+      <img height="60" width="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png">
+    </a>
+      &nbsp;
+      &nbsp;
+    <a href = "#">
+      <img height="60" width="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png">
+    </a>
+      &nbsp;
+      &nbsp;
+    <a href="mailto:jonyvic.tor42@email.com">
+      <img height="50" width="60" alt="JVMC#4841" src="https://imagepng.org/wp-content/uploads/2018/03/gmail-cone-icon.png">
+    </a>
    </div>
     
   
