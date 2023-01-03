@@ -9,7 +9,7 @@
 
 <div  align="center"> 
   <div style="display: inline_block"><br>
-    <img align="left" width="350" height="350" alt="coding-time" src="https://media.giphy.com/media/Vh1KrUr6Tvl1RFYYk6/giphy.gif">
+    <img align="left" width="300" height="300" alt="coding-time" src="https://media.giphy.com/media/Vh1KrUr6Tvl1RFYYk6/giphy.gif">
     <h1 align="center">Minhas Tecnologias <3</h1>
     <img align="center" height="50" width="60" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" height="50" width="60" alt="react-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
