@@ -33,7 +33,7 @@
     </a>
       &nbsp;
       &nbsp;
-    <a href="mailto:jonyvic.tor42@email.com">
+    <a href="mailto:jonyvic.tor42@gmail.com">
       <img height="45" width="50" alt="JVMC#4841" src="https://imagepng.org/wp-content/uploads/2018/03/gmail-cone-icon.png">
     </a>
    </div>
