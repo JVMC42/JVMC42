@@ -10,7 +10,7 @@
 <div  align="center"> 
   <div style="display: inline_block"><br>
     <img align="left" width="350" height="350" alt="coding-time" src="https://media.giphy.com/media/Vh1KrUr6Tvl1RFYYk6/giphy.gif">
-    <h1 align="center">Melhores Tecnologias <3</h1>
+    <h1 align="center">Minhas Tecnologias <3</h1>
     <img align="center" height="50" width="60" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" height="50" width="60" alt="react-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
     <img align="center" height="50" width="60" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
@@ -22,7 +22,7 @@
     
   <div  align="center"> 
   <div style="display: inline_block"><br>
-    <h1 align="center">Resdes Sociais :)</h1>
+    <h1 align="center">Redes Sociais :)</h1>
     <a href = "https://www.linkedin.com/in/jo%C3%A3o-victor-mariano-9813b9233/">
       <img height="60" width="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png">
     </a>
