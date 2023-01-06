@@ -15,6 +15,7 @@
     <img align="center" height="40" width="50" alt="react-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
     <img align="center" height="40" width="50" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
     <img align="center" height="40" width="50" alt="css-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+    <img align="center" height="45" width="50" alt="css-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg">
     <img align="center" height="40" width="50" alt="c-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
     <img align="center" height="40" width="50" alt="nodejs-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
     <img align="center" height="40" width="50" alt="nodejs-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
