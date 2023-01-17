@@ -24,7 +24,7 @@
   <div  align="center"> 
   <div style="display: inline_block"><br>
     <h1 align="center">Redes Sociais :)</h1>
-    <a href = "https://www.linkedin.com/in/jo%C3%A3o-victor-mariano-9813b9233/">
+    <a href = "https://linkedin.com/in/joão-victor-mariano-9813b9233">
       <img height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png">
     </a>
       &nbsp;
