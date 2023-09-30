@@ -1,10 +1,6 @@
 ## <img  height="40" width="50" src = "https://cdn-icons-png.flaticon.com/512/1534/1534067.png"  /> Bom dia, Boa tarde, Boa noite ! 
 
-<div>
-  <img  height="185em" src="https://github-readme-stats.vercel.app/api?username=JVMC42&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-  <img  height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JVMC42&layout=compact&langs_count=16&theme=synthwave"/>
-</div>
-<br>
+
 
 <div  align="center"> 
   <div style="display: inline_block"><br>
