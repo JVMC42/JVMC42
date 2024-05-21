@@ -36,6 +36,6 @@
     
   
  
-  ![Snake animation](https://github.com/JVMC42/JVMC42/blob/output/github-contribution-grid-snake.svg)
+
  
 
