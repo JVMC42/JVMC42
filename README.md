@@ -1,4 +1,4 @@
-## <img  height="40" width="50" src = "https://cdn-icons-png.flaticon.com/512/1534/1534067.png"  /> Bom dia, Boa tarde, Boa noite ! 
+## Bom dia, Boa tarde, Boa noite !
 
 
 
